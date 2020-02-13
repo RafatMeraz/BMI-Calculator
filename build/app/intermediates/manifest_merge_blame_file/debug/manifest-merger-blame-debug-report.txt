@@ -34,7 +34,7 @@
 27        android:debuggable="true"
 28        android:icon="@mipmap/ic_launcher"
 28-->D:\Codes\Flutter\flutter_app\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml:18:9-43
-29        android:label="bmi_calculator" >
+29        android:label="BMI Calculator" >
 29-->D:\Codes\Flutter\flutter_app\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml:17:9-39
 30        <activity
 30-->D:\Codes\Flutter\flutter_app\bmi-calculator-flutter\android\app\src\main\AndroidManifest.xml:19:9-37:20
